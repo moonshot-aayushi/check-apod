@@ -1,8 +1,8 @@
 import React from 'react';
 import { BrowserRouter, Route } from "react-router-dom";
-import Home from "Home";
+import Home from "./Home";
 import Particles from 'react-particles-js';
-import NasaPhoto from "NasaPhoto";
+import NasaPhoto from "./NasaPhoto";
 import './App.css';
 
 const particlesOptions = {
